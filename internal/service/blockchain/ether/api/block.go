@@ -14,6 +14,7 @@ import (
 	"strings"
 )
 
+// TODO: 공통 상수로 빼기
 const alchemyAPIURL = "https://eth-sepolia.g.alchemy.com/v2/"
 
 type BlockServer struct {
